@@ -1,4 +1,4 @@
-# RV RM Developer │ Portfolio
+# RV Developer │ Portfolio
 
 # Imagem do Projeto
 ![foto](https://github.com/RhyanVictoor/portifolio-dev/blob/main/assets/image/Captura%20de%20tela%202024-08-05%20183747.png?raw=true)
